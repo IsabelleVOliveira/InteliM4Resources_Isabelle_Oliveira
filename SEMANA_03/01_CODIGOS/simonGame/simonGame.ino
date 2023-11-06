@@ -1,6 +1,3 @@
-# Código Simon Game
-
-``` c++
 // Define os pinos onde os botões estão conectados
 const uint8_t buttonPins[] = {5, 17, 16, 18};
 // Define os pinos onde os LEDs estão conectados
@@ -107,5 +104,3 @@ void loop() {
     delay(300);
   }
 }
-
-```
